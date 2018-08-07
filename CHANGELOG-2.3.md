@@ -7,6 +7,7 @@
 - PIM-7543: Forbid usage of 'label' code for attributes to prevent UI bugs
 - PIM-7545: Redirect to login page when user is not authenticated anymore
 - PIM-7569: Fix limit of 20 results for view selector
+- PIM-7573: Fix "nesting level too deep" error during family import
 
 # 2.3.3 (2018-08-01)
 
